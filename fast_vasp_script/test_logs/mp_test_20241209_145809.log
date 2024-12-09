@@ -1,0 +1,4 @@
+2024-12-09 14:58:09,020 - INFO - Starting ABO3 materials processing
+2024-12-09 14:58:09,020 - INFO - Parameters: max_materials=5, crystal_system=cubic
+2024-12-09 14:58:09,020 - INFO - POTCAR directory: /Users/brian/Documents/potential/potpaw_PBE
+2024-12-09 14:58:10,747 - ERROR - Error in main processing: SummaryRester.search() got an unexpected keyword argument 'criteria'

@@ -1,0 +1,59 @@
+2024-12-09 14:42:15,183 - INFO - Starting ABO3 materials processing
+2024-12-09 14:42:15,183 - INFO - Parameters: max_materials=5, crystal_system=cubic
+2024-12-09 14:42:15,183 - INFO - POTCAR directory: /Users/brian/Documents/potential/potpaw_PBE
+2024-12-09 14:42:20,673 - INFO - Saved POSCAR to vasp_calculations/mp-1183539/POSCAR
+2024-12-09 14:42:20,673 - INFO - Combining POTCAR files for elements: ['Ca', 'Ho', 'O']
+2024-12-09 14:42:20,674 - INFO - Available POTCAR types for Ca: ['Ca_pv', 'Ca_sv', 'Ca_sv_GW']
+2024-12-09 14:42:20,674 - INFO - Available POTCAR types for Ho: ['Ho', 'Ho_3', 'Ho_h']
+2024-12-09 14:42:20,675 - INFO - Available POTCAR types for O: ['O', 'O_GW', 'O_GW_new', 'O_h', 'O_h_GW', 'O_s', 'O_s_GW']
+2024-12-09 14:42:20,675 - INFO - Using POTCAR type 'Ca_pv' for element Ca
+2024-12-09 14:42:20,675 - INFO - Using POTCAR type 'Ho' for element Ho
+2024-12-09 14:42:20,676 - INFO - Using POTCAR type 'O' for element O
+2024-12-09 14:42:20,677 - INFO - Saved combined POTCAR to vasp_calculations/mp-1183539/POTCAR
+2024-12-09 14:42:20,677 - INFO - Saved POTCAR information to vasp_calculations/mp-1183539/POTCAR_INFO.json
+2024-12-09 14:42:20,677 - INFO - Successfully processed material: mp-1183539
+2024-12-09 14:42:20,682 - INFO - Saved POSCAR to vasp_calculations/mp-861502/POSCAR
+2024-12-09 14:42:20,682 - INFO - Combining POTCAR files for elements: ['Ac', 'Fe', 'O']
+2024-12-09 14:42:20,682 - INFO - Available POTCAR types for Ac: ['Ac']
+2024-12-09 14:42:20,682 - INFO - Available POTCAR types for Fe: ['Fe', 'Fe_GW', 'Fe_pv', 'Fe_sv', 'Fe_sv_GW']
+2024-12-09 14:42:20,683 - INFO - Available POTCAR types for O: ['O', 'O_GW', 'O_GW_new', 'O_h', 'O_h_GW', 'O_s', 'O_s_GW']
+2024-12-09 14:42:20,683 - INFO - Using POTCAR type 'Ac' for element Ac
+2024-12-09 14:42:20,683 - INFO - Using POTCAR type 'Fe_pv' for element Fe
+2024-12-09 14:42:20,684 - INFO - Using POTCAR type 'O' for element O
+2024-12-09 14:42:20,684 - INFO - Saved combined POTCAR to vasp_calculations/mp-861502/POTCAR
+2024-12-09 14:42:20,684 - INFO - Saved POTCAR information to vasp_calculations/mp-861502/POTCAR_INFO.json
+2024-12-09 14:42:20,684 - INFO - Successfully processed material: mp-861502
+2024-12-09 14:42:20,688 - INFO - Saved POSCAR to vasp_calculations/mp-973930/POSCAR
+2024-12-09 14:42:20,688 - INFO - Combining POTCAR files for elements: ['Np', 'Be', 'O']
+2024-12-09 14:42:20,688 - INFO - Available POTCAR types for Np: ['Np', 'Np_s']
+2024-12-09 14:42:20,688 - INFO - Available POTCAR types for Be: ['Be', 'Be_GW', 'Be_sv', 'Be_sv_GW']
+2024-12-09 14:42:20,689 - INFO - Available POTCAR types for O: ['O', 'O_GW', 'O_GW_new', 'O_h', 'O_h_GW', 'O_s', 'O_s_GW']
+2024-12-09 14:42:20,689 - INFO - Using POTCAR type 'Np' for element Np
+2024-12-09 14:42:20,689 - INFO - Using POTCAR type 'Be_sv' for element Be
+2024-12-09 14:42:20,689 - INFO - Using POTCAR type 'O' for element O
+2024-12-09 14:42:20,690 - INFO - Saved combined POTCAR to vasp_calculations/mp-973930/POTCAR
+2024-12-09 14:42:20,690 - INFO - Saved POTCAR information to vasp_calculations/mp-973930/POTCAR_INFO.json
+2024-12-09 14:42:20,690 - INFO - Successfully processed material: mp-973930
+2024-12-09 14:42:20,694 - INFO - Saved POSCAR to vasp_calculations/mp-1184563/POSCAR
+2024-12-09 14:42:20,694 - INFO - Combining POTCAR files for elements: ['Hf', 'Be', 'O']
+2024-12-09 14:42:20,694 - INFO - Available POTCAR types for Hf: ['Hf', 'Hf_pv', 'Hf_sv', 'Hf_sv_GW']
+2024-12-09 14:42:20,694 - INFO - Available POTCAR types for Be: ['Be', 'Be_GW', 'Be_sv', 'Be_sv_GW']
+2024-12-09 14:42:20,695 - INFO - Available POTCAR types for O: ['O', 'O_GW', 'O_GW_new', 'O_h', 'O_h_GW', 'O_s', 'O_s_GW']
+2024-12-09 14:42:20,695 - INFO - Using POTCAR type 'Hf_pv' for element Hf
+2024-12-09 14:42:20,695 - INFO - Using POTCAR type 'Be_sv' for element Be
+2024-12-09 14:42:20,695 - INFO - Using POTCAR type 'O' for element O
+2024-12-09 14:42:20,696 - INFO - Saved combined POTCAR to vasp_calculations/mp-1184563/POTCAR
+2024-12-09 14:42:20,696 - INFO - Saved POTCAR information to vasp_calculations/mp-1184563/POTCAR_INFO.json
+2024-12-09 14:42:20,696 - INFO - Successfully processed material: mp-1184563
+2024-12-09 14:42:20,699 - INFO - Saved POSCAR to vasp_calculations/mp-1187736/POSCAR
+2024-12-09 14:42:20,700 - INFO - Combining POTCAR files for elements: ['U', 'Ti', 'O']
+2024-12-09 14:42:20,700 - INFO - Available POTCAR types for U: ['U', 'U_s']
+2024-12-09 14:42:20,700 - INFO - Available POTCAR types for Ti: ['Ti', 'Ti_pv', 'Ti_sv', 'Ti_sv_GW']
+2024-12-09 14:42:20,700 - INFO - Available POTCAR types for O: ['O', 'O_GW', 'O_GW_new', 'O_h', 'O_h_GW', 'O_s', 'O_s_GW']
+2024-12-09 14:42:20,700 - INFO - Using POTCAR type 'U' for element U
+2024-12-09 14:42:20,701 - INFO - Using POTCAR type 'Ti_sv' for element Ti
+2024-12-09 14:42:20,701 - INFO - Using POTCAR type 'O' for element O
+2024-12-09 14:42:20,702 - INFO - Saved combined POTCAR to vasp_calculations/mp-1187736/POTCAR
+2024-12-09 14:42:20,702 - INFO - Saved POTCAR information to vasp_calculations/mp-1187736/POTCAR_INFO.json
+2024-12-09 14:42:20,702 - INFO - Successfully processed material: mp-1187736
+2024-12-09 14:42:20,703 - INFO - Saved processing results to processed_materials.json

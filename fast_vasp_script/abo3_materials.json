@@ -1,0 +1,77 @@
+[
+    {
+        "material_id": "mp-1183539",
+        "formula": "CaHoO3",
+        "crystal_system": "cubic",
+        "spacegroup": 221,
+        "composition": {
+            "Ca": 1.0,
+            "Ho": 1.0,
+            "O": 3.0
+        },
+        "structure_files": {
+            "cif_path": "structures/mp-1183539/mp-1183539.cif",
+            "poscar_path": "structures/mp-1183539/POSCAR"
+        }
+    },
+    {
+        "material_id": "mp-861502",
+        "formula": "AcFeO3",
+        "crystal_system": "cubic",
+        "spacegroup": 221,
+        "composition": {
+            "Ac": 1.0,
+            "Fe": 1.0,
+            "O": 3.0
+        },
+        "structure_files": {
+            "cif_path": "structures/mp-861502/mp-861502.cif",
+            "poscar_path": "structures/mp-861502/POSCAR"
+        }
+    },
+    {
+        "material_id": "mp-973930",
+        "formula": "NpBeO3",
+        "crystal_system": "cubic",
+        "spacegroup": 221,
+        "composition": {
+            "Np": 1.0,
+            "Be": 1.0,
+            "O": 3.0
+        },
+        "structure_files": {
+            "cif_path": "structures/mp-973930/mp-973930.cif",
+            "poscar_path": "structures/mp-973930/POSCAR"
+        }
+    },
+    {
+        "material_id": "mp-1184563",
+        "formula": "HfBeO3",
+        "crystal_system": "cubic",
+        "spacegroup": 221,
+        "composition": {
+            "Hf": 1.0,
+            "Be": 1.0,
+            "O": 3.0
+        },
+        "structure_files": {
+            "cif_path": "structures/mp-1184563/mp-1184563.cif",
+            "poscar_path": "structures/mp-1184563/POSCAR"
+        }
+    },
+    {
+        "material_id": "mp-1187736",
+        "formula": "UTiO3",
+        "crystal_system": "cubic",
+        "spacegroup": 221,
+        "composition": {
+            "U": 1.0,
+            "Ti": 1.0,
+            "O": 3.0
+        },
+        "structure_files": {
+            "cif_path": "structures/mp-1187736/mp-1187736.cif",
+            "poscar_path": "structures/mp-1187736/POSCAR"
+        }
+    }
+]

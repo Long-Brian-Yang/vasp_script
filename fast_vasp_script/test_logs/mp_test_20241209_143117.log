@@ -1,0 +1,4 @@
+2024-12-09 14:31:17,144 - INFO - Starting ABO3 materials processing
+2024-12-09 14:31:17,144 - INFO - Parameters: max_materials=5, crystal_system=cubic
+2024-12-09 14:31:17,144 - INFO - POTCAR directory: /path/to/potcar/directory
+2024-12-09 14:31:18,779 - ERROR - Error in main processing: '_MPResterLegacy' object has no attribute 'summary'

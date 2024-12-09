@@ -1,0 +1,4 @@
+2024-12-09 14:55:11,396 - INFO - Starting ABO3 materials processing
+2024-12-09 14:55:11,396 - INFO - Parameters: max_materials=5, crystal_system=cubic
+2024-12-09 14:55:11,396 - INFO - POTCAR directory: /path/to/your/potcar/directory
+2024-12-09 14:55:11,396 - ERROR - Error in main processing: Please use a new API key from https://materialsproject.org/api Keys for the new API are 32 characters, whereas keys for the legacy API are 16 characters.

@@ -1,0 +1,48 @@
+2024-12-09 14:17:36,975 - INFO - Starting ABO3 materials test with parameters:
+2024-12-09 14:17:36,975 - INFO - - max_materials: 5
+2024-12-09 14:17:36,975 - INFO - - crystal_system: cubic
+2024-12-09 14:17:36,975 - INFO - - symmetry_tolerance: 0.1
+2024-12-09 14:17:45,302 - INFO - Found material: {'material_id': MPID(mp-1183539), 'formula': 'CaHoO3', 'crystal_system': 'cubic', 'spacegroup': 221, 'composition': {'Ca': 1.0, 'Ho': 1.0, 'O': 3.0}}
+2024-12-09 14:17:45,305 - INFO - Found material: {'material_id': MPID(mp-861502), 'formula': 'AcFeO3', 'crystal_system': 'cubic', 'spacegroup': 221, 'composition': {'Ac': 1.0, 'Fe': 1.0, 'O': 3.0}}
+2024-12-09 14:17:45,309 - INFO - Found material: {'material_id': MPID(mp-973930), 'formula': 'NpBeO3', 'crystal_system': 'cubic', 'spacegroup': 221, 'composition': {'Np': 1.0, 'Be': 1.0, 'O': 3.0}}
+2024-12-09 14:17:45,312 - INFO - Found material: {'material_id': MPID(mp-1184563), 'formula': 'HfBeO3', 'crystal_system': 'cubic', 'spacegroup': 221, 'composition': {'Hf': 1.0, 'Be': 1.0, 'O': 3.0}}
+2024-12-09 14:17:45,315 - INFO - Found material: {'material_id': MPID(mp-1187736), 'formula': 'UTiO3', 'crystal_system': 'cubic', 'spacegroup': 221, 'composition': {'U': 1.0, 'Ti': 1.0, 'O': 3.0}}
+2024-12-09 14:17:45,315 - INFO - Total materials found: 5
+2024-12-09 14:17:45,316 - INFO - 
+Results Analysis:
+2024-12-09 14:17:45,316 - INFO - Total number of materials: 5
+2024-12-09 14:17:45,316 - INFO - 
+Crystal system distribution:
+2024-12-09 14:17:45,316 - INFO - - cubic: 5
+2024-12-09 14:17:45,316 - INFO - Starting ABO3 materials test with parameters:
+2024-12-09 14:17:45,316 - INFO - - max_materials: 5
+2024-12-09 14:17:45,316 - INFO - - crystal_system: tetragonal
+2024-12-09 14:17:45,316 - INFO - - symmetry_tolerance: 0.1
+2024-12-09 14:17:49,046 - INFO - Found material: {'material_id': MPID(mp-20459), 'formula': 'TiPbO3', 'crystal_system': 'tetragonal', 'spacegroup': 99, 'composition': {'Ti': 1.0, 'Pb': 1.0, 'O': 3.0}}
+2024-12-09 14:17:49,106 - INFO - Found material: {'material_id': MPID(mp-545522), 'formula': 'CoBiO3', 'crystal_system': 'tetragonal', 'spacegroup': 99, 'composition': {'Co': 1.0, 'Bi': 1.0, 'O': 3.0}}
+2024-12-09 14:17:49,763 - INFO - Found material: {'material_id': MPID(mp-4342), 'formula': 'KNbO3', 'crystal_system': 'tetragonal', 'spacegroup': 99, 'composition': {'K': 1.0, 'Nb': 1.0, 'O': 3.0}}
+2024-12-09 14:17:49,870 - INFO - Found material: {'material_id': MPID(mp-760376), 'formula': 'KTiO3', 'crystal_system': 'tetragonal', 'spacegroup': 99, 'composition': {'K': 1.0, 'Ti': 1.0, 'O': 3.0}}
+2024-12-09 14:17:50,050 - INFO - Found material: {'material_id': MPID(mp-1504764), 'formula': 'YVO3', 'crystal_system': 'tetragonal', 'spacegroup': 123, 'composition': {'Y': 1.0, 'V': 1.0, 'O': 3.0}}
+2024-12-09 14:17:50,050 - INFO - Total materials found: 5
+2024-12-09 14:17:50,057 - INFO - 
+Results Analysis:
+2024-12-09 14:17:50,057 - INFO - Total number of materials: 5
+2024-12-09 14:17:50,057 - INFO - 
+Crystal system distribution:
+2024-12-09 14:17:50,057 - INFO - - tetragonal: 5
+2024-12-09 14:17:50,058 - INFO - Starting ABO3 materials test with parameters:
+2024-12-09 14:17:50,058 - INFO - - max_materials: 5
+2024-12-09 14:17:50,058 - INFO - - crystal_system: None
+2024-12-09 14:17:50,058 - INFO - - symmetry_tolerance: 0.1
+2024-12-09 14:17:53,287 - INFO - Found material: {'material_id': MPID(mp-1183539), 'formula': 'CaHoO3', 'crystal_system': 'cubic', 'spacegroup': 221, 'composition': {'Ca': 1.0, 'Ho': 1.0, 'O': 3.0}}
+2024-12-09 14:17:53,290 - INFO - Found material: {'material_id': MPID(mp-861502), 'formula': 'AcFeO3', 'crystal_system': 'cubic', 'spacegroup': 221, 'composition': {'Ac': 1.0, 'Fe': 1.0, 'O': 3.0}}
+2024-12-09 14:17:53,294 - INFO - Found material: {'material_id': MPID(mp-973930), 'formula': 'NpBeO3', 'crystal_system': 'cubic', 'spacegroup': 221, 'composition': {'Np': 1.0, 'Be': 1.0, 'O': 3.0}}
+2024-12-09 14:17:53,297 - INFO - Found material: {'material_id': MPID(mp-1184563), 'formula': 'HfBeO3', 'crystal_system': 'cubic', 'spacegroup': 221, 'composition': {'Hf': 1.0, 'Be': 1.0, 'O': 3.0}}
+2024-12-09 14:17:53,300 - INFO - Found material: {'material_id': MPID(mp-1187736), 'formula': 'UTiO3', 'crystal_system': 'cubic', 'spacegroup': 221, 'composition': {'U': 1.0, 'Ti': 1.0, 'O': 3.0}}
+2024-12-09 14:17:53,301 - INFO - Total materials found: 5
+2024-12-09 14:17:53,306 - INFO - 
+Results Analysis:
+2024-12-09 14:17:53,306 - INFO - Total number of materials: 5
+2024-12-09 14:17:53,307 - INFO - 
+Crystal system distribution:
+2024-12-09 14:17:53,307 - INFO - - cubic: 5

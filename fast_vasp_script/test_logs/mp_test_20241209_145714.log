@@ -1,0 +1,8 @@
+2024-12-09 14:57:14,749 - INFO - Starting ABO3 materials processing
+2024-12-09 14:57:14,749 - INFO - Parameters: max_materials=5, crystal_system=cubic
+2024-12-09 14:57:14,749 - INFO - POTCAR directory: /Users/brian/Documents/potential/potpaw_PBE
+2024-12-09 14:57:16,500 - ERROR - Error in main processing: 
+            The MPRester().query method has been replaced with the MPRester().summary.search method.
+            Note this method also no longer supports direct MongoDB-type queries. For more information,
+            please see the new documentation.
+            

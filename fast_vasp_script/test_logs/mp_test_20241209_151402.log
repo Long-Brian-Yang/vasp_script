@@ -1,0 +1,69 @@
+2024-12-09 15:14:02,574 - INFO - Starting ABO3 materials processing
+2024-12-09 15:14:02,574 - INFO - Parameters: max_materials=5, crystal_system=cubic
+2024-12-09 15:14:02,574 - INFO - POTCAR directory: /Users/brian/Documents/potential/potpaw_PBE
+2024-12-09 15:14:06,556 - INFO - Saved POSCAR to vasp_calculations/mp-1183539/POSCAR
+2024-12-09 15:14:06,556 - INFO - Combining POTCAR files for elements: ['Ca', 'Ho', 'O']
+2024-12-09 15:14:06,557 - INFO - Available POTCAR types for Ca: ['Ca_pv', 'Ca_sv', 'Ca_sv_GW']
+2024-12-09 15:14:06,558 - INFO - Available POTCAR types for Ho: ['Ho', 'Ho_3', 'Ho_h']
+2024-12-09 15:14:06,558 - INFO - Available POTCAR types for O: ['O', 'O_GW', 'O_GW_new', 'O_h', 'O_h_GW', 'O_s', 'O_s_GW']
+2024-12-09 15:14:06,558 - INFO - Using POTCAR type 'Ca_pv' for element Ca
+2024-12-09 15:14:06,559 - INFO - Using POTCAR type 'Ho' for element Ho
+2024-12-09 15:14:06,559 - INFO - Using POTCAR type 'O' for element O
+2024-12-09 15:14:06,560 - INFO - Saved POTCAR to vasp_calculations/mp-1183539/POTCAR
+2024-12-09 15:14:06,561 - INFO - Saved INCAR to vasp_calculations/mp-1183539/INCAR
+2024-12-09 15:14:06,561 - INFO - Saved KPOINTS to vasp_calculations/mp-1183539/KPOINTS
+2024-12-09 15:14:06,561 - INFO - Saved run.sh to vasp_calculations/mp-1183539/run.sh
+2024-12-09 15:14:06,561 - INFO - Successfully processed material: mp-1183539
+2024-12-09 15:14:06,565 - INFO - Saved POSCAR to vasp_calculations/mp-861502/POSCAR
+2024-12-09 15:14:06,565 - INFO - Combining POTCAR files for elements: ['Ac', 'Fe', 'O']
+2024-12-09 15:14:06,565 - INFO - Available POTCAR types for Ac: ['Ac']
+2024-12-09 15:14:06,565 - INFO - Available POTCAR types for Fe: ['Fe', 'Fe_GW', 'Fe_pv', 'Fe_sv', 'Fe_sv_GW']
+2024-12-09 15:14:06,566 - INFO - Available POTCAR types for O: ['O', 'O_GW', 'O_GW_new', 'O_h', 'O_h_GW', 'O_s', 'O_s_GW']
+2024-12-09 15:14:06,566 - INFO - Using POTCAR type 'Ac' for element Ac
+2024-12-09 15:14:06,566 - INFO - Using POTCAR type 'Fe_pv' for element Fe
+2024-12-09 15:14:06,567 - INFO - Using POTCAR type 'O' for element O
+2024-12-09 15:14:06,568 - INFO - Saved POTCAR to vasp_calculations/mp-861502/POTCAR
+2024-12-09 15:14:06,568 - INFO - Saved INCAR to vasp_calculations/mp-861502/INCAR
+2024-12-09 15:14:06,568 - INFO - Saved KPOINTS to vasp_calculations/mp-861502/KPOINTS
+2024-12-09 15:14:06,568 - INFO - Saved run.sh to vasp_calculations/mp-861502/run.sh
+2024-12-09 15:14:06,569 - INFO - Successfully processed material: mp-861502
+2024-12-09 15:14:06,572 - INFO - Saved POSCAR to vasp_calculations/mp-973930/POSCAR
+2024-12-09 15:14:06,572 - INFO - Combining POTCAR files for elements: ['Np', 'Be', 'O']
+2024-12-09 15:14:06,573 - INFO - Available POTCAR types for Np: ['Np', 'Np_s']
+2024-12-09 15:14:06,573 - INFO - Available POTCAR types for Be: ['Be', 'Be_GW', 'Be_sv', 'Be_sv_GW']
+2024-12-09 15:14:06,573 - INFO - Available POTCAR types for O: ['O', 'O_GW', 'O_GW_new', 'O_h', 'O_h_GW', 'O_s', 'O_s_GW']
+2024-12-09 15:14:06,573 - INFO - Using POTCAR type 'Np' for element Np
+2024-12-09 15:14:06,574 - INFO - Using POTCAR type 'Be_sv' for element Be
+2024-12-09 15:14:06,574 - INFO - Using POTCAR type 'O' for element O
+2024-12-09 15:14:06,574 - INFO - Saved POTCAR to vasp_calculations/mp-973930/POTCAR
+2024-12-09 15:14:06,575 - INFO - Saved INCAR to vasp_calculations/mp-973930/INCAR
+2024-12-09 15:14:06,575 - INFO - Saved KPOINTS to vasp_calculations/mp-973930/KPOINTS
+2024-12-09 15:14:06,575 - INFO - Saved run.sh to vasp_calculations/mp-973930/run.sh
+2024-12-09 15:14:06,575 - INFO - Successfully processed material: mp-973930
+2024-12-09 15:14:06,579 - INFO - Saved POSCAR to vasp_calculations/mp-1184563/POSCAR
+2024-12-09 15:14:06,579 - INFO - Combining POTCAR files for elements: ['Hf', 'Be', 'O']
+2024-12-09 15:14:06,580 - INFO - Available POTCAR types for Hf: ['Hf', 'Hf_pv', 'Hf_sv', 'Hf_sv_GW']
+2024-12-09 15:14:06,580 - INFO - Available POTCAR types for Be: ['Be', 'Be_GW', 'Be_sv', 'Be_sv_GW']
+2024-12-09 15:14:06,580 - INFO - Available POTCAR types for O: ['O', 'O_GW', 'O_GW_new', 'O_h', 'O_h_GW', 'O_s', 'O_s_GW']
+2024-12-09 15:14:06,581 - INFO - Using POTCAR type 'Hf_pv' for element Hf
+2024-12-09 15:14:06,581 - INFO - Using POTCAR type 'Be_sv' for element Be
+2024-12-09 15:14:06,582 - INFO - Using POTCAR type 'O' for element O
+2024-12-09 15:14:06,583 - INFO - Saved POTCAR to vasp_calculations/mp-1184563/POTCAR
+2024-12-09 15:14:06,583 - INFO - Saved INCAR to vasp_calculations/mp-1184563/INCAR
+2024-12-09 15:14:06,584 - INFO - Saved KPOINTS to vasp_calculations/mp-1184563/KPOINTS
+2024-12-09 15:14:06,584 - INFO - Saved run.sh to vasp_calculations/mp-1184563/run.sh
+2024-12-09 15:14:06,584 - INFO - Successfully processed material: mp-1184563
+2024-12-09 15:14:06,590 - INFO - Saved POSCAR to vasp_calculations/mp-1187736/POSCAR
+2024-12-09 15:14:06,591 - INFO - Combining POTCAR files for elements: ['U', 'Ti', 'O']
+2024-12-09 15:14:06,591 - INFO - Available POTCAR types for U: ['U', 'U_s']
+2024-12-09 15:14:06,591 - INFO - Available POTCAR types for Ti: ['Ti', 'Ti_pv', 'Ti_sv', 'Ti_sv_GW']
+2024-12-09 15:14:06,592 - INFO - Available POTCAR types for O: ['O', 'O_GW', 'O_GW_new', 'O_h', 'O_h_GW', 'O_s', 'O_s_GW']
+2024-12-09 15:14:06,592 - INFO - Using POTCAR type 'U' for element U
+2024-12-09 15:14:06,592 - INFO - Using POTCAR type 'Ti_sv' for element Ti
+2024-12-09 15:14:06,593 - INFO - Using POTCAR type 'O' for element O
+2024-12-09 15:14:06,593 - INFO - Saved POTCAR to vasp_calculations/mp-1187736/POTCAR
+2024-12-09 15:14:06,594 - INFO - Saved INCAR to vasp_calculations/mp-1187736/INCAR
+2024-12-09 15:14:06,594 - INFO - Saved KPOINTS to vasp_calculations/mp-1187736/KPOINTS
+2024-12-09 15:14:06,594 - INFO - Saved run.sh to vasp_calculations/mp-1187736/run.sh
+2024-12-09 15:14:06,595 - INFO - Successfully processed material: mp-1187736
+2024-12-09 15:14:06,597 - INFO - Saved processing results to processed_materials.json

@@ -1,0 +1,87 @@
+[
+    {
+        "material_id": "mp-1183539",
+        "formula": "CaHoO3",
+        "crystal_system": "cubic",
+        "files": {
+            "poscar_path": "vasp_calculations/mp-1183539/POSCAR",
+            "potcar_path": "vasp_calculations/mp-1183539/POTCAR",
+            "incar_path": "vasp_calculations/mp-1183539/INCAR",
+            "kpoints_path": "vasp_calculations/mp-1183539/KPOINTS",
+            "run_script_path": "vasp_calculations/mp-1183539/run.sh",
+            "potcar_types": {
+                "Ca": "Ca_pv",
+                "Ho": "Ho",
+                "O": "O"
+            }
+        }
+    },
+    {
+        "material_id": "mp-861502",
+        "formula": "AcFeO3",
+        "crystal_system": "cubic",
+        "files": {
+            "poscar_path": "vasp_calculations/mp-861502/POSCAR",
+            "potcar_path": "vasp_calculations/mp-861502/POTCAR",
+            "incar_path": "vasp_calculations/mp-861502/INCAR",
+            "kpoints_path": "vasp_calculations/mp-861502/KPOINTS",
+            "run_script_path": "vasp_calculations/mp-861502/run.sh",
+            "potcar_types": {
+                "Ac": "Ac",
+                "Fe": "Fe_pv",
+                "O": "O"
+            }
+        }
+    },
+    {
+        "material_id": "mp-973930",
+        "formula": "NpBeO3",
+        "crystal_system": "cubic",
+        "files": {
+            "poscar_path": "vasp_calculations/mp-973930/POSCAR",
+            "potcar_path": "vasp_calculations/mp-973930/POTCAR",
+            "incar_path": "vasp_calculations/mp-973930/INCAR",
+            "kpoints_path": "vasp_calculations/mp-973930/KPOINTS",
+            "run_script_path": "vasp_calculations/mp-973930/run.sh",
+            "potcar_types": {
+                "Np": "Np",
+                "Be": "Be_sv",
+                "O": "O"
+            }
+        }
+    },
+    {
+        "material_id": "mp-1184563",
+        "formula": "HfBeO3",
+        "crystal_system": "cubic",
+        "files": {
+            "poscar_path": "vasp_calculations/mp-1184563/POSCAR",
+            "potcar_path": "vasp_calculations/mp-1184563/POTCAR",
+            "incar_path": "vasp_calculations/mp-1184563/INCAR",
+            "kpoints_path": "vasp_calculations/mp-1184563/KPOINTS",
+            "run_script_path": "vasp_calculations/mp-1184563/run.sh",
+            "potcar_types": {
+                "Hf": "Hf_pv",
+                "Be": "Be_sv",
+                "O": "O"
+            }
+        }
+    },
+    {
+        "material_id": "mp-1187736",
+        "formula": "UTiO3",
+        "crystal_system": "cubic",
+        "files": {
+            "poscar_path": "vasp_calculations/mp-1187736/POSCAR",
+            "potcar_path": "vasp_calculations/mp-1187736/POTCAR",
+            "incar_path": "vasp_calculations/mp-1187736/INCAR",
+            "kpoints_path": "vasp_calculations/mp-1187736/KPOINTS",
+            "run_script_path": "vasp_calculations/mp-1187736/run.sh",
+            "potcar_types": {
+                "U": "U",
+                "Ti": "Ti_sv",
+                "O": "O"
+            }
+        }
+    }
+]

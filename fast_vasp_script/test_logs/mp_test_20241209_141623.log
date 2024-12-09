@@ -1,0 +1,9 @@
+2024-12-09 14:16:23,994 - INFO - Starting ABO3 materials test with parameters:
+2024-12-09 14:16:23,994 - INFO - - max_materials: 5
+2024-12-09 14:16:23,994 - INFO - - crystal_system: cubic
+2024-12-09 14:16:23,994 - INFO - - symmetry_tolerance: 0.1
+2024-12-09 14:16:28,614 - ERROR - Test error: 
+            The MPRester().query method has been replaced with the MPRester().summary.search method.
+            Note this method also no longer supports direct MongoDB-type queries. For more information,
+            please see the new documentation.
+            

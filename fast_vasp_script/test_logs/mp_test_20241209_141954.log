@@ -1,0 +1,21 @@
+2024-12-09 14:19:54,514 - INFO - Starting ABO3 materials search with parameters:
+2024-12-09 14:19:54,514 - INFO - - max_materials: 5
+2024-12-09 14:19:54,514 - INFO - - crystal_system: cubic
+2024-12-09 14:19:54,514 - INFO - - symmetry_tolerance: 0.1
+2024-12-09 14:20:02,415 - INFO - Processed material: mp-1183539
+2024-12-09 14:20:02,416 - INFO - - Formula: CaHoO3
+2024-12-09 14:20:02,416 - INFO - - Files saved: {'cif_path': 'structures/mp-1183539/mp-1183539.cif', 'poscar_path': 'structures/mp-1183539/POSCAR'}
+2024-12-09 14:20:02,420 - INFO - Processed material: mp-861502
+2024-12-09 14:20:02,420 - INFO - - Formula: AcFeO3
+2024-12-09 14:20:02,420 - INFO - - Files saved: {'cif_path': 'structures/mp-861502/mp-861502.cif', 'poscar_path': 'structures/mp-861502/POSCAR'}
+2024-12-09 14:20:02,425 - INFO - Processed material: mp-973930
+2024-12-09 14:20:02,425 - INFO - - Formula: NpBeO3
+2024-12-09 14:20:02,425 - INFO - - Files saved: {'cif_path': 'structures/mp-973930/mp-973930.cif', 'poscar_path': 'structures/mp-973930/POSCAR'}
+2024-12-09 14:20:02,430 - INFO - Processed material: mp-1184563
+2024-12-09 14:20:02,430 - INFO - - Formula: HfBeO3
+2024-12-09 14:20:02,430 - INFO - - Files saved: {'cif_path': 'structures/mp-1184563/mp-1184563.cif', 'poscar_path': 'structures/mp-1184563/POSCAR'}
+2024-12-09 14:20:02,435 - INFO - Processed material: mp-1187736
+2024-12-09 14:20:02,435 - INFO - - Formula: UTiO3
+2024-12-09 14:20:02,435 - INFO - - Files saved: {'cif_path': 'structures/mp-1187736/mp-1187736.cif', 'poscar_path': 'structures/mp-1187736/POSCAR'}
+2024-12-09 14:20:02,435 - INFO - 
+Total materials processed: 5
